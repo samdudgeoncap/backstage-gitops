@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: backstage
-          image: d268f69341d8
+          image: samdudgeon692/backstage-app:latest
           ports:
             - containerPort: 7000
